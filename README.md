@@ -8,3 +8,5 @@ here the instruction
 For fps or third person (need to fix)
 # PlayerMovement.cs
 For simple movement and jump
+# PlayerFollower2D.cs
+For simple player follower this can be used for camera and other object
